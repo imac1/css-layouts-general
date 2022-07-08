@@ -61,4 +61,4 @@ None
 - <i class="far fa-candy-cane"></i> [Layout tutorial from nothing to flexbox](https://learnlayout.com/)
 - <i class="far fa-exclamation"></i> [CSS basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
 - <i class="far fa-book-open"></i> [CSS box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
-- <i class="far fa-book-open"></i> [Which unit do I need to use?](https://alligator.io/css/css-units-explained/)
+- <i class="far fa-book-open"></i> [Which unit do I need to use?](https://www.digitalocean.com/community/tutorials/css-css-units-explained)
