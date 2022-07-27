@@ -1,0 +1,19 @@
+{
+  "name": "css-layouts-general",
+  "version": "1.0.0",
+  "description": "## Story",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imac1/css-layouts-general.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imac1/css-layouts-general/issues"
+  },
+  "homepage": "https://github.com/imac1/css-layouts-general#readme"
+}
